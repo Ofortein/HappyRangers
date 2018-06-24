@@ -63,7 +63,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Arise &amp; Shine Day Care",
-          "text": "join happy rangers today. we love children but most importantly children love us. we take pride in caring for you kids whilst they are not in your care. we entertain them with very exciting programmes. have a look further down.",
+          "text": "join us today. we love children but most importantly children love us. we take pride in caring for you kids whilst they are not in your care. we entertain them with very exciting programmes. have a look further down.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -103,7 +103,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/watch?v=UZSRYKWHwkw",
+              "src": "https://www.youtube.com/watch?v=recdOYUmSRQ&feature=youtu.be",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false,
@@ -116,7 +116,7 @@
             }
           },
           "title": "Shine little ones",
-          "text": "<i>Here at happy rangers we make sure you're children are well cared for and happy. At the end of the day that is all you as a parent worry about when they're not in your care.<br><br>Although we offer so much more.</i>",
+          "text": "<i>Here at Arise &amp; Shine Day Care we make sure you're children are well cared for and happy. At the end of the day that is all you as a parent worry about when they're not in your care.<br><br>Although we offer so much more.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">read more</a>",
           "_tags": [
             "Theme"
@@ -237,6 +237,9 @@
             },
             ".mbr-section-title": {
               "color": "#2969b0"
+            },
+            ".lead P": {
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -259,7 +262,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Educational Care",
-          "text": "<p>Article header with background image and parallax effect.</p>",
+          "text": "<p><b>Certified Educational Care with Certification</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"

@@ -445,6 +445,9 @@ h6,
 #msg-box8-g .mbr-section-title {
   color: #2969b0;
 }
+#msg-box8-g .lead P {
+  color: #ffffff;
+}
 #ext_menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
