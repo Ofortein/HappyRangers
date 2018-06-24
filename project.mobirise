@@ -62,7 +62,7 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
-          "title": "HaPpy RaNgeRs",
+          "title": "Arise &amp; Shine Day Care",
           "text": "join happy rangers today. we love children but most importantly children love us. we take pride in caring for you kids whilst they are not in your care. we entertain them with very exciting programmes. have a look further down.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
@@ -115,7 +115,7 @@
               "size": 250
             }
           },
-          "title": "happy rangers",
+          "title": "Shine little ones",
           "text": "<i>Here at happy rangers we make sure you're children are well cared for and happy. At the end of the day that is all you as a parent worry about when they're not in your care.<br><br>Although we offer so much more.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">read more</a>",
           "_tags": [
@@ -168,7 +168,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
+          "title": "Have fun while you're at it",
           "text": "<p><i>Article header with background image and parallax effect.</i></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -216,14 +216,19 @@
               "size": 250
             }
           },
-          "title": "how do you do?",
-          "text": "Only a few of the activities and nursery rhymes that'll be taught at happy rangers.",
+          "title": "Let's meet &amp; greet",
+          "text": "Only a few of the activities and nursery rhymes that'll be taught at happy rangers. We are a Christian center however we welcome all children.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-i"
+          "_anchor": "header2-i",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649"
+            }
+          }
         },
         {
           "_styles": {
@@ -253,7 +258,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ARTICLE HEADER",
+          "title": "Educational Care",
           "text": "<p>Article header with background image and parallax effect.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
@@ -339,7 +344,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "hearth",
+              "name": "sun2",
               "family": "MobiriseIcons",
               "link": "https://mobirise.com",
               "size": 0,
@@ -347,7 +352,7 @@
               "color": "#f3c649"
             }
           },
-          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">happy rangers</a>",
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">arise &amp; shine</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-7"
         },
@@ -364,7 +369,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) 2018 Happy Rangers",
+          "text": "Copyright (c) 2018 Arise &amp; Shine Day Care",
           "_tags": [
             "Theme"
           ],
